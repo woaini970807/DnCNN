@@ -1,7 +1,7 @@
 # [DnCNN](http://www4.comp.polyu.edu.hk/~cslzhang/paper/DnCNN.pdf)
 # [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising](http://ieeexplore.ieee.org/document/7839189/)
 
-# New Traini and Testing Codes ([Keras](https://keras.io/) and [PyTorch](https://pytorch.org/))
+# New Training and Testing Codes ([Keras](https://keras.io/) and [PyTorch](https://pytorch.org/))
 
 - [DnCNN-keras](https://github.com/cszn/DnCNN/tree/master/TrainingCodes/dncnn_keras)
 
